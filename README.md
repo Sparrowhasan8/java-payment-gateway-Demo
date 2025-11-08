@@ -95,14 +95,6 @@ This project is open source and free to use for learning.
 
 ---
 
-If you want, I can also:
-
-✅ Add a Class Diagram (UML) inside README  
-✅ Add Images / ASCII diagram  
-✅ Add JUnit tests  
-✅ Improve formatting to look more premium  
-
-Just tell me.
 
 
 
